@@ -22,6 +22,3 @@
 #
 # When no upgrade is in progress, this file should be empty
 # (no version overrides below this comment).
-
-DUCKDB_VERSION="v1.4.4"
-DUCKDB_GIT_COMMIT_HASH="6ddac80"
